@@ -92,7 +92,7 @@ target 'app-example-ios' do
   pod 'YbridPlayerSDK'
 end
 ```
-### If you use Swift Packages
+#### If you use Swift Packages
 A Swift Package uses YbridPlayerSDK as Swift Package with the following lines (three Packages) in Package.swift:
 ```swift 
 // swift-tools-version:5.3
